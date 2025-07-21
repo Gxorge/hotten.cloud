@@ -12,7 +12,7 @@
     <div class="content">
         <BackBreadcrum/>
         <br>
-        <p>The 2025 upgrade roadmap aims to improve reliability across services on the Hotten Cloud. The upgrade includes an additional server, upgraded web frameworks and better management of services and security across the network.</p>
+        <p>The 2025 upgrade roadmap aims to improve reliability across services on Hotten Cloud. The upgrade includes an additional server, upgraded web frameworks and better management of services and security across the network.</p>
 
         <h2>Roadmap</h2>
         <ul>
@@ -62,13 +62,13 @@
 
         <h2>Web Framework Upgrades</h2>
         <p>
-            The gweb framework, which is used on all Hotten UK sites, will be upgraded to the latest versions of Svelte to improve reliability and security.
+            The gweb framework, which is used on all Hotten Technology sites, will be upgraded to the latest versions of Svelte to improve reliability and security.
             I am also currently exploring options for an improvement web management system, removing the need to have individual copies of gweb for each website and the need to spend time copying files between them all.
         </p>
 
         <h2>New Domain</h2>
         <p>
-            Introducing httn.uk, Hotten UK's short URL utility.
+            Introducing httn.uk, Hotten Technology's short URL utility.
         </p>
 
         <h2>Local Network Improvements</h2>
