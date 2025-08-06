@@ -19,8 +19,8 @@
             <li>Authentik implementation - ✅</li>
             <li>Jelly Suite upgrades - ✅</li>
             <li>Containerising services - ✅</li>
-            <li>Web framework upgrades - 🚧</li>
-            <li>Local network improvements - 🚧</li>
+            <li>Web framework upgrades - ✅</li>
+            <li>Local network improvements - ✅</li>
             <li>General security improvements - 🚧</li>
         </ul>
         <p style="font-size: 15px;">key: 🚧 - in progress, ✅ - completed</p>
