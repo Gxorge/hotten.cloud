@@ -6,7 +6,7 @@
     <title>Hotten Cloud</title>
 </svelte:head>
 
-<HeroTitle title="Hotten Cloud" subtitle="Infrastructure for Hotten Technology Group"/>
+<HeroTitle title="Hotten Cloud" subtitle="Infrastructure for Hotten Technology"/>
 <section class="gweb-text-layout">
     <div class="content">
         <p>Hotten Cloud is powered by 8 different servers and networking equipment. It provides a wide range of services to family and friends, from a media service to a security system.</p>

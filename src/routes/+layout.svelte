@@ -9,7 +9,7 @@
 <footer class="gweb-footer footer-sticky">
     <div class="content footer-text has-text-centered">
         <div class="gweb-text-layout">
-            <p style="font-size: 15px;"><b>© 2025 Hotten Technology Group</b></p>
+            <p style="font-size: 15px;"><b>© 2026 Hotten Technology</b></p>
             <p style="font-size: 15px;" class="gweb-link-white">
                 <a href="https://github.com/Hotten-Cloud/">github</a> &middot;
                 <a href="https://hottentechnology.com">hotten technology</a> &middot;

@@ -30,7 +30,7 @@
 
         <h2>Contact</h2>
         <p class="gweb-link-black">
-            For any enquiries regarding Hotten Technology, please <a href="mailto:legal@hottentechnology.com">contact us here.</a>
+            For any legal enquiries regarding Hotten Technology, please <a href="mailto:legal@hottentechnology.com">contact us here.</a>
         </p>
     </div>
 </section>
